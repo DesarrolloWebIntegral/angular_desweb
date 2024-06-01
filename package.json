@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href /angular_desweb",
+    "build:prod": "ng build --configuration production --base-href /angular_desweb/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:angular_desweb": "node dist/angular_desweb/server/server.mjs"
